@@ -1,0 +1,10 @@
+{
+  "title": "Mod Name",
+  "description": "Yet another Factorio mod.",
+  "version": "0.1.0",
+  "author": "CREE7EN",
+  "factorio_version": "1.0",
+  "homepage": "https://github.com/CREEATION/mod-name",
+  "name": "mod-name",
+  "dependencies": ["(?) debugadapter >= 0.18.49", "(?) gvv >= 0.3.6"]
+}
