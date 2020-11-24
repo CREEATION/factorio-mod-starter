@@ -1,8 +1,8 @@
 local _GLOBAL = {
   mod = {
     namespace = "c7",
-    name = "chat_accessibility",
-    title = "Chat Accessibility",
+    name = "mod_name",
+    title = "Mod Name",
     sep = ":",
     settings = {
       types_names = {
